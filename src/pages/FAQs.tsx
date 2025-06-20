@@ -79,7 +79,7 @@ const FAQs: React.FC = () => {
       id: 11,
       category: 'Support Questions',
       question: 'How can I contact customer support?',
-      answer: 'You can reach us through multiple channels: WhatsApp at +91 9325780522, email at info@luxuryhomes.com, phone calls during business hours (Mon-Sat 9AM-7PM), or visit our office in Bandra West. We respond to all queries within 24 hours.'
+      answer: 'You can reach us through multiple channels: WhatsApp at +91 9823732171, email at info@luxuryhomes.com, phone calls during business hours (Mon-Sat 9AM-7PM), or visit our office in Bandra West. We respond to all queries within 24 hours.'
     },
     {
       id: 12,
@@ -223,7 +223,7 @@ const FAQs: React.FC = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button
-              onClick={() => window.open('https://wa.me/919325780522', '_blank')}
+              onClick={() => window.open('https://wa.me/919823732171', '_blank')}
               className="bg-green-600 text-white px-8 py-3 rounded-lg hover:bg-green-700 transition-colors font-semibold"
             >
               WhatsApp Us

@@ -229,7 +229,7 @@ const Privacy: React.FC = () => {
               </p>
               <ul className="text-gray-600 space-y-2">
                 <li><strong>Email:</strong> privacy@luxuryhomes.com</li>
-                <li><strong>Phone:</strong> +91 9325780522</li>
+                <li><strong>Phone:</strong> +91 9823732171</li>
                 <li><strong>Address:</strong> Bandra West, Mumbai, Maharashtra, India</li>
                 <li><strong>Data Protection Officer:</strong> dpo@luxuryhomes.com</li>
               </ul>

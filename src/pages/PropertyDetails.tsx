@@ -64,7 +64,7 @@ Email: ${formData.email}
 Phone: ${formData.phone}
 Message: ${formData.message}`;
 
-    const whatsappUrl = `https://wa.me/919325780522?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/919823732171?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
     
     setFormData({ name: '', email: '', phone: '', message: '' });
@@ -73,7 +73,7 @@ Message: ${formData.message}`;
 
   const handleWhatsAppClick = () => {
     const message = `Hi, I'm interested in ${property.title} (₹${formatPrice(property.price)}) located at ${property.location}. Please provide more details.`;
-    const whatsappUrl = `https://wa.me/919325780522?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/919823732171?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
   };
 

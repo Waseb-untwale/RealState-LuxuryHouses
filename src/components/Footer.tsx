@@ -124,7 +124,7 @@ const Footer: React.FC = () => {
               <div className="flex items-start space-x-3">
                 <Phone className="h-5 w-5 text-blue-400 mt-1" />
                 <div>
-                  <p className="text-gray-300">+91 93257 80522</p>
+                  <p className="text-gray-300">+91 98237 32171</p>
                   <p className="text-sm text-gray-400">Mon-Sat 9AM-7PM</p>
                 </div>
               </div>

@@ -28,7 +28,7 @@ Phone: ${formData.phone}
 Subject: ${formData.subject}
 Message: ${formData.message}`;
 
-    const whatsappUrl = `https://wa.me/919325780522?text=${encodeURIComponent(whatsappMessage)}`;
+    const whatsappUrl = `https://wa.me/919823732171?text=${encodeURIComponent(whatsappMessage)}`;
     window.open(whatsappUrl, '_blank');
     
     // Reset form
@@ -69,7 +69,7 @@ Message: ${formData.message}`;
                     </div>
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-1">Phone</h3>
-                      <p className="text-gray-600">+91 93257 80522</p>
+                      <p className="text-gray-600">+91 98237 32171</p>
                       <p className="text-sm text-gray-500">Mon-Sat 9AM-7PM</p>
                     </div>
                   </div>
@@ -121,7 +121,7 @@ Message: ${formData.message}`;
                   property inquiries, site visits, and investment guidance.
                 </p>
                 <button
-                  onClick={() => window.open('https://wa.me/919325780522', '_blank')}
+                  onClick={() => window.open('https://wa.me/9198237 32171', '_blank')}
                   className="bg-green-600 text-white px-6 py-3 rounded-lg hover:bg-green-700 transition-colors font-semibold flex items-center"
                 >
                   <Phone className="h-5 w-5 mr-2" />

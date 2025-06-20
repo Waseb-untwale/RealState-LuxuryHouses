@@ -163,7 +163,7 @@ const Terms: React.FC = () => {
               </p>
               <ul className="text-gray-600 space-y-1">
                 <li>Email: legal@luxuryhomes.com</li>
-                <li>Phone: +91 9325780522</li>
+                <li>Phone: +91 932578052</li>
                 <li>Address: Bandra West, Mumbai, Maharashtra, India</li>
               </ul>
             </div>
